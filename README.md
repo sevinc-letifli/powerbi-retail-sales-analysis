@@ -1,4 +1,4 @@
-# powerbi-retail-sales-analysis
+# Powerbi-retail-sales-analysis
 
 # Pərakəndə Satışın Analitikası (Retail Data Analytics Project)
 Bu layihə pərakəndə satış zəncirinin fəaliyyətini analiz etmək, biznesin ümumi vəziyyətini qiymətləndirmək, müştəri və tədarükçü davranışlarını optimallaşdırmaq məqsədilə hazırlanmış Power BI hesabatıdır. Layihə çərçivəsində məlumatların ETL proseslərindən vizuallaşdırılmasına qədər bütün mərhələlər tətbiq olunmuşdur.
