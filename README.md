@@ -1,6 +1,7 @@
 # Powerbi-retail-sales-analysis
 
 # Pərakəndə Satışın Analitikası (Retail Data Analytics Project)
+# Məqsəd
 Bu layihə pərakəndə satış zəncirinin fəaliyyətini analiz etmək, biznesin ümumi vəziyyətini qiymətləndirmək, müştəri və tədarükçü davranışlarını optimallaşdırmaq məqsədilə hazırlanmış Power BI hesabatıdır. Layihə çərçivəsində məlumatların ETL proseslərindən vizuallaşdırılmasına qədər bütün mərhələlər tətbiq olunmuşdur.
 ##  Layihənin Mərhələləri və Görülən İşlər
 ### 1. Məlumatların Təmizlənməsi və ETL (Power Query)
@@ -48,6 +49,8 @@ Hesabat ümumilikdə dinamik naviqasiyaya və interaktivliyə malik 3 əsas və 
 * **Power BI Desktop**
 * **Power Query (ETL)**
 * **DAX (Time Intelligence, Conditional logic)**
+# Nəticə
+Bu layihə Power BI istifadə edərək xam satış məlumatlarını analiz etməyi və həmin məlumatlardan biznes üçün faydalı nəticələr çıxarmağı nümayiş etdirir.
 
 <img width="1600" height="827" alt="image (12)" src="https://github.com/user-attachments/assets/e7733a37-a84a-4696-ac5c-0b7229bd7195" />
 
